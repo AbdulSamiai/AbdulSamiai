@@ -4,7 +4,7 @@ Hello, I'm Abdul Sami 👋, a top-rated freelancer on Upwork and a preferred fre
 ### Expertise 🛠️
 - **Artificial Intelligence** 🧠: Deep learning, machine learning algorithms, and data analytics.
 - **Blockchain** ⛓️: Smart contracts, decentralized applications (dApps), and blockchain infrastructure.
-- **Web Development** 💻: Expert in Django, FastAPI, Flask, .NET Web API, PHP (Laravel), React.js, and Node.js.
+- **Web Development** 💻: Expert in Django, FastAPI, Flask, .NET Web API, PHP (Laravel), React.js, Next.js, Vue.js, Typescript and Node.js.
 - **Mobile Development** 📱: Cross-platform mobile applications using Flutter.
 - **Cloud Services** ☁️: Proficient in AWS, Azure, GCP, and Heroku, with experience in SageMaker and Runpod for model deployment.
 
